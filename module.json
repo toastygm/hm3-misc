@@ -1,0 +1,20 @@
+{
+  "name": "hm3-misc",
+  "title": "Harn Miscellaney",
+  "description": "A miscellaneous collection of fan-created content for the HarnMaster 3 system for FoundryVTT, mostly from Lythia.com.",
+  "version": "0.1.0",
+  "minimumCoreVersion": "0.6.5",
+  "compatibleCoreVersion": "0.7.7",
+  "author": "toastygm",
+  "packs": [
+    {
+      "name": "sw-armor.db",
+      "label": "SW - Armor",
+      "path": "packs/sw-armor.db",
+      "entity": "Actor"
+    }
+  ],
+  "url": "https://github.com/toastygm/hm3-misc/",
+  "manifest": "https://raw.githubusercontent.com/toastygm/hm3-misc/master/module.json",
+  "download": "https://github.com/toastygm/hm3-misc/archive/v0.1.0.zip"
+}
